@@ -4,13 +4,12 @@ In this Repo, I am trying to go through NLP practices
 
 0. Tokenization
 1. Bigram
-2. N-gram model
-3. Attention
-4. Transformer
-5. Chatbot
-7. Similarity check
-8. Sentiment analyzes
-9. ... 
+2. Attention
+3. Transformer
+4. Chatbot
+5. Similarity check
+6. Sentiment analyzes
+7. ... 
 
 
 
