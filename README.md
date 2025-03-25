@@ -3,12 +3,11 @@
 In this Repo, I am trying to go through NLP practices
 
 0. Tokenization and Vectorization
-2. Bigram
-3. Attention
-4. Transformer
-5. Chatbot
-6. Sentiment analyzes
-7. ... 
+1. Bigram
+2. Attention
+3. Chatbot
+4. Sentiment analyzes
+5. ... 
 
 
 
