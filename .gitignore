@@ -1,0 +1,6 @@
+glove.6B.50d.txt
+*.npz
+gutenberg.zip
+gutenberg/
+RAG_cv/
+*.pkl
